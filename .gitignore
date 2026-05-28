@@ -2,4 +2,3 @@
 *.tar
 
 # Large ONNX file (167MB - exceeds GitHub 100MB limit, use Git LFS)
-OnnxModels/yolov8l-face-lindevs.onnx
